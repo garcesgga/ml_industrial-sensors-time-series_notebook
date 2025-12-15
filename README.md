@@ -6,7 +6,7 @@ Notebook showcasing essential Pandas techniques for handling and analyzing indus
 # Files
 - industrial_sensors.csv -> for raw data
 - industrial_sensors_processed.csv -> for clean data
-- industrial-sensors-time-series_notebook.ipynb -> Jupyter Notebook with step-by-step analysis and processing 
+- ml_industrial-sensors-time-series_notebook.ipynb -> Jupyter Notebook with step-by-step analysis and processing 
 
 # Technologies Used
 - Python 3.12
